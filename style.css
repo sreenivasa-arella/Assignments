@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+  }
+
+  h1 {
+    color: white ;
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .main-header {
+
+    border: 2px solid gray ;
+    
+    background-color: blue ;
+    text-align:left;
+
+
+  }
