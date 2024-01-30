@@ -16,3 +16,14 @@ body {
 
 
   }
+
+  #sideNav{
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    left: 2;
+    top: 2;
+    background-color: blue;
+    z-index: 2;
+    padding: 2px;
+  }
